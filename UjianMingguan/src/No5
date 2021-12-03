@@ -1,0 +1,13 @@
+a. salah karena tidak semua method harus memiliki nilai balik (return value) dan
+   yang wajib memiliki nilai balik adalah method yang memiliki data yang diperlukan
+   si pemanggil sesuai tipe data si pemanggil dan disimpan. jika pemanggil hanya menjalankan 
+   program pada suatu method, tidak perlu ada nilai balik dan method tersebut berupa method 
+   tidak punya tipe data (void) dan output di keluarkan oleh method tersebut
+b. salah karena parameter hanya opsional dan tergantung dari suatu pemanggilnya jika pemanggil 
+   perlu memasukan data maka perlu parameternya.
+c. salah karena return value akan mengembalikan data yang tipe datanya sama dengan pemanggilnya
+   dan parameter bisa berbeda dengan return value tergantung dari program suatu method 
+   yang memerlukan masukan data dari si pemanggil dan program yang dijalankan di method tersebut.
+d. benar karena suatu method dapat menggunakan lebih banyak parameter tergantung dari 
+   masukan data yang diperlukan method tersebut oleh si pemanggil.
+e. salah karena nilai return value hanya bisa mengembalikan nilai balik satu pada satu method
